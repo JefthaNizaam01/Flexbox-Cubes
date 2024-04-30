@@ -5,3 +5,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container {
+    display:flex;
+height: auto;
+width: 100%;
+}
+.cube1 {
+    width: 250px;
+    height: 250px;
+    font-size: 30px;
+    text-align: center;
+background: linear-gradient(#FF512F, #DD2476)
+}
+.cube2 {
+    width: 250px;
+    height: 250px;
+    font-size: 30px;
+    text-align: center;
+background: linear-gradient(#2E3192, #1BFFFF)
+}
+.cube3 {
+    width: 250px;
+    height: 250px;
+    font-size: 30px;
+    text-align: center;
+background: linear-gradient(#BFF098, #6FD6FF)
+}
