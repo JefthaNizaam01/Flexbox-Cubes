@@ -1,7 +1,72 @@
 *,
+*,
 *::after,
 *::before {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.container {
+display: flex;
+height: auto;
+width: 100%;
+flex-direction: row;
+flex-wrap: wrap;
+text-align: center;
+}
+.Cube1 {
+    width: 210px;
+    height: 210px;
+    font-size: 25px;
+    text-align: center;
+    background: linear-gradient(#2E3192, #1BFFFF);
+    margin: 15px;
+    line-height: 210px;
+
+}
+.Cube2 {
+    width: 210px;
+    height: 210px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 210px;
+    margin: 15px;
+    background: linear-gradient(#FF512F, #DD2476);
+
+}
+.Cube3 {
+    width: 210px;
+    height: 210px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 210px;
+    margin: 15px;
+background: linear-gradient(#DCE35B, #45B649);
+}
+.Cube4 {
+    width: 210px;
+    height: 210px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 210px;
+    margin: 15px;
+    background: linear-gradient(#2E3192, #1BFFFF);
+}
+.Cube5 {
+    width: 210px;
+    height: 210px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 210px;
+    margin: 15px;
+    background: linear-gradient(#FF512F, #DD2476);
+}
+.Cube6 {
+    width: 210px;
+    height: 210px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 210px;
+    margin: 15px;
+    background: linear-gradient(#DCE35B, #45B649);
 }
