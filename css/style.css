@@ -14,59 +14,42 @@ flex-direction: row;
 flex-wrap: wrap;
 text-align: center;
 }
-.Cube1 {
+.Cubeblue {
     width: 210px;
     height: 210px;
     font-size: 25px;
     text-align: center;
+    border-radius: 5px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 42px #0fa, 0 0 82px #0fa,0 0 92px #0fa;
+	color: white;
     background: linear-gradient(#2E3192, #1BFFFF);
     margin: 15px;
     line-height: 210px;
+   
 
 }
-.Cube2 {
+.Cubered {
     width: 210px;
     height: 210px;
     font-size: 25px;
     text-align: center;
+    border-radius: 5px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 42px #0fa, 0 0 82px #0fa,0 0 92px #0fa;
+	color: white;
     line-height: 210px;
     margin: 15px;
     background: linear-gradient(#FF512F, #DD2476);
 
 }
-.Cube3 {
+.Cubegreen {
     width: 210px;
     height: 210px;
     font-size: 25px;
     text-align: center;
+    border-radius: 5px;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 42px #0fa, 0 0 82px #0fa,0 0 92px #0fa;
+	color: white;
     line-height: 210px;
     margin: 15px;
 background: linear-gradient(#DCE35B, #45B649);
-}
-.Cube4 {
-    width: 210px;
-    height: 210px;
-    font-size: 25px;
-    text-align: center;
-    line-height: 210px;
-    margin: 15px;
-    background: linear-gradient(#2E3192, #1BFFFF);
-}
-.Cube5 {
-    width: 210px;
-    height: 210px;
-    font-size: 25px;
-    text-align: center;
-    line-height: 210px;
-    margin: 15px;
-    background: linear-gradient(#FF512F, #DD2476);
-}
-.Cube6 {
-    width: 210px;
-    height: 210px;
-    font-size: 25px;
-    text-align: center;
-    line-height: 210px;
-    margin: 15px;
-    background: linear-gradient(#DCE35B, #45B649);
 }
